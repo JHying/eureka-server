@@ -1,12 +1,15 @@
 # Introduction
-spring cloud eureka server Demo.
+spring cloud eureka server.
 ### IDE
-Eclipse 2021.06
+IDEA 2022.1
 ### Build
-Maven
+Maven 3.8.4
 ### Language
-JAVA (JDK 1.8)
+JAVA (JDK 11)
 ### Run
 JAR
 ### Version
-Spring cloud 2020.0.4
+Spring cloud 2021.0.4
+Spring Boot 2.7.4
+
+last updated: 2022.10.05
